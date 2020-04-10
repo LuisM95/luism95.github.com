@@ -15,7 +15,7 @@ links.forEach(function(link){ //recorrerlos
 
     //retrasando redireccionamiento
     setTimeout(function(){
-      location.href = '/';
+      location.href = '/newsletters';
     },700)
 
 
